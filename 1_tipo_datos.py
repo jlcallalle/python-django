@@ -103,3 +103,31 @@ else:
 #while (condición):
 # 	elementos
 
+
+
+#Operadores Básicos
+
+2+2
+#4
+5-2
+#3
+3*4
+#12
+5/4
+#1
+5.0/4.0
+#1.25
+9 % 2
+#1
+10 % 2
+#0
+3**2
+#9
+3 > 5
+#False
+5 < 10
+#True
+10 == 10
+#True
+10 == 9
+#False
